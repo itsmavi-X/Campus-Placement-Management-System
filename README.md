@@ -155,16 +155,6 @@ Backend: `http://localhost:5000`
 
 ## Demo Credentials
 
-### Admin
-
-- Email: `admin@campusplacement.com`
-- Password: `Admin@123`
-
-## Default Admin Login
-
-- Email: `admin@campusplacement.com`
-- Password: `Admin@123`
-
 ## API Highlights
 
 - Auth: `POST /api/auth/register`, `POST /api/auth/login`, `GET /api/auth/me`
